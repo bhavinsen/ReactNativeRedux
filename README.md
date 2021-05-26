@@ -3,8 +3,8 @@
 # Familiar with Git?
 Checkout this repo, install dependencies, then start the gulp process with the following:
 ```
-git clone https://github.com/bhavinsen/ReactNativeOneSignalSample.git
-cd ReactNativeOneSignalSample
+git clone https://github.com/bhavinsen/ReactNativeRedux.git
+cd React-Native-Redux
 npm install
 react-native run-android for android
 For run in IOS device
